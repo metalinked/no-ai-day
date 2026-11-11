@@ -1,0 +1,14 @@
+{
+  "extName": { "message": "No-AI Day" },
+  "extDescription": { "message": "One day a week, blocks ChatGPT, Claude, Gemini and friends. That day you do it yourself." },
+  "discount": { "message": "-100% AI" },
+  "blockedTitle": { "message": "Today is No-AI Day" },
+  "blockedFooter": { "message": "Everything is back to normal tomorrow." },
+  "message1": { "message": "Today you do the thinking. Help is back tomorrow." },
+  "message2": { "message": "Your head has tokens too, and today they are free." },
+  "message3": { "message": "Remember how a git rebase works? Today you will find out." },
+  "message4": { "message": "Stack Overflow still exists. Go say hi." },
+  "message5": { "message": "Offer valid until midnight. Cannot be combined with other assistants." },
+  "optionsTitle": { "message": "Which days are AI-free?" },
+  "optionsSaved": { "message": "Saved." }
+}

@@ -1,0 +1,14 @@
+{
+  "extName": { "message": "Dia sense IA" },
+  "extDescription": { "message": "Un dia a la setmana, bloqueja ChatGPT, Claude, Gemini i companyia. Aquell dia ho fas tu." },
+  "discount": { "message": "-100% IA" },
+  "blockedTitle": { "message": "Avui és el Dia sense IA" },
+  "blockedFooter": { "message": "Demà torna tot a la normalitat." },
+  "message1": { "message": "Avui pensa tu. Demà ja t'ajudaran." },
+  "message2": { "message": "El teu cap també té tokens, i avui són gratis." },
+  "message3": { "message": "Recordes com es feia un git rebase? Avui ho sabràs." },
+  "message4": { "message": "Stack Overflow encara existeix. Passa-hi a saludar." },
+  "message5": { "message": "Oferta vàlida fins a mitjanit. No acumulable amb altres assistents." },
+  "optionsTitle": { "message": "Quins dies són sense IA?" },
+  "optionsSaved": { "message": "Desat." }
+}
