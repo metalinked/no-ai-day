@@ -1,7 +1,8 @@
 {
   "extName": { "message": "Dia sense IA" },
   "extDescription": { "message": "Un dia a la setmana, bloqueja ChatGPT, Claude, Gemini i companyia. Aquell dia ho fas tu." },
-  "discount": { "message": "-100% IA" },
+  "todayIs": { "message": "Avui és el" },
+  "word": { "message": "IA" },
   "blockedTitle": { "message": "Avui és el Dia sense IA" },
   "blockedFooter": { "message": "Demà torna tot a la normalitat." },
   "message1": { "message": "Avui pensa tu. Demà ja t'ajudaran." },

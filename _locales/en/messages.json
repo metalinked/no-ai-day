@@ -1,7 +1,8 @@
 {
   "extName": { "message": "No-AI Day" },
   "extDescription": { "message": "One day a week, blocks ChatGPT, Claude, Gemini and friends. That day you do it yourself." },
-  "discount": { "message": "-100% AI" },
+  "todayIs": { "message": "Today is" },
+  "word": { "message": "AI" },
   "blockedTitle": { "message": "Today is No-AI Day" },
   "blockedFooter": { "message": "Everything is back to normal tomorrow." },
   "message1": { "message": "Today you do the thinking. Help is back tomorrow." },

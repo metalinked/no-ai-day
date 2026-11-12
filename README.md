@@ -1,6 +1,6 @@
 # Dia sense IA (No-AI Day)
 
-A browser extension that blocks ChatGPT, Claude, Gemini, Copilot and other assistants one day a week. On that day, opening any of them shows a sale poster that reads "-100% IA" with a short line under it.
+A browser extension that blocks ChatGPT, Claude, Gemini, Copilot and other assistants one day a week. On that day, opening any of them shows a poster in the style of the "Día sin IVA" sale posters: "Today is" on top, then "No-AI Day" with the AI in a tilted black tag, and a short line under it.
 
 The name is Catalan for "No-AI Day". It comes from the "Día sin IVA" (VAT-free day) sales that Spanish appliance stores run.
 
