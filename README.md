@@ -6,7 +6,7 @@ The name is Catalan for "No-AI Day". It comes from the "Día sin IVA" (VAT-free 
 
 ## Why
 
-One day the agent I was using ran out of tokens in the middle of a job and I finished the changes by hand. I had not done that in a while, and I had forgotten git commands I used to type every day. I decided to work without AI one day a week. The extension is there so that day has no temptations.
+One day the agent I was using ran out of tokens in the middle of a job and I finished the changes by hand. I could do it, but it felt rusty, because I had not worked that way in a while. I decided to work without AI one day a week to keep in practice. The extension is there so that day has no temptations.
 
 ## Status
 
