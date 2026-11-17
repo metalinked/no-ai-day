@@ -6,7 +6,9 @@ The name is Catalan for "No-AI Day". It comes from the "Día sin IVA" (VAT-free 
 
 ## Why
 
-One day the agent I was using ran out of tokens in the middle of a job and I finished the changes by hand. I could do it, but it felt rusty, because I had not worked that way in a while. I decided to work without AI one day a week to keep in practice. The extension is there so that day has no temptations.
+AI is useful, and most days it saves a lot of time. But some things are worth keeping in practice: reading the docs, remembering a command, working out a bug on your own. One day a week, the extension closes the AI chats in your browser so you get to do that.
+
+It is easy to get around: turn it off or use another browser. It is a reminder, not a lock.
 
 ## Status
 
