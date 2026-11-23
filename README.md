@@ -29,15 +29,14 @@ It does not block anything outside the browser: assistants in your editor and te
 
 ## Install
 
+Chrome, Edge or Brave: install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/no-ai-day/olafbhngobkklpeheibajildnofbhbfa).
+
 Firefox (140 or later): install it from [Firefox Add-ons](https://addons.mozilla.org/addon/no-ai-day/).
 
-Chrome, Edge or Brave: it is waiting for review on the Chrome Web Store. Until then, you can load it from the source:
+To try the source instead:
 
-1. Clone the repository.
-2. Open `chrome://extensions` and turn on developer mode.
-3. Click "Load unpacked" and choose the project folder.
-
-To try the source in Firefox, open `about:debugging#/runtime/this-firefox`, click "Load Temporary Add-on" and choose `manifest.json`. The add-on is removed when you close Firefox.
+- In Chrome, Edge or Brave, clone the repository, open `chrome://extensions`, turn on developer mode, click "Load unpacked" and choose the project folder.
+- In Firefox, open `about:debugging#/runtime/this-firefox`, click "Load Temporary Add-on" and choose `manifest.json`. The add-on is removed when you close Firefox.
 
 ## Privacy
 
