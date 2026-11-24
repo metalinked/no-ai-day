@@ -14,7 +14,7 @@ It is easy to get around: turn it off or use another browser. It is a reminder, 
 
 ## Status
 
-Version 0.1.0. This is the base and it has not been tested in depth yet. What is left is in [TODO.md](TODO.md).
+Version 1.0.0. What is left is in [TODO.md](TODO.md).
 
 ## What it does
 
