@@ -10,6 +10,11 @@
   "message3": { "message": "Remember how a git rebase works? Today you will find out." },
   "message4": { "message": "Stack Overflow still exists. Go say hi." },
   "message5": { "message": "Offer valid until midnight. Cannot be combined with other assistants." },
+  "message6": { "message": "Ask your mother. She has been waiting for you to call." },
+  "message7": { "message": "You know how to do this. Just try it." },
+  "message8": { "message": "Ask the coworker at the next desk. They like being asked." },
+  "message9": { "message": "Google still works. So do friends with opinions." },
+  "message10": { "message": "Write the message yourself. Whoever reads it will know it is yours." },
   "optionsTitle": { "message": "Which days are AI-free?" },
   "optionsSaved": { "message": "Saved." }
 }

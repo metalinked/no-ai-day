@@ -10,6 +10,11 @@
   "message3": { "message": "¿Te acuerdas de cómo se hacía un git rebase? Hoy lo sabrás." },
   "message4": { "message": "Stack Overflow sigue existiendo. Pásate a saludar." },
   "message5": { "message": "Oferta válida hasta medianoche. No acumulable con otros asistentes." },
+  "message6": { "message": "Pregúntaselo a tu madre. Hace tiempo que espera que la llames." },
+  "message7": { "message": "Ya sabes cómo se hace. Solo tienes que probarlo." },
+  "message8": { "message": "Pregúntaselo al compañero de la mesa de al lado. Le gusta que le pregunten." },
+  "message9": { "message": "Google sigue funcionando. Y los amigos con opiniones, también." },
+  "message10": { "message": "Escribe tú el mensaje. Quien lo lea notará que es tuyo." },
   "optionsTitle": { "message": "¿Qué días son sin IA?" },
   "optionsSaved": { "message": "Guardado." }
 }

@@ -10,6 +10,11 @@
   "message3": { "message": "Recordes com es feia un git rebase? Avui ho sabràs." },
   "message4": { "message": "Stack Overflow encara existeix. Passa-hi a saludar." },
   "message5": { "message": "Oferta vàlida fins a mitjanit. No acumulable amb altres assistents." },
+  "message6": { "message": "Pregunta-ho a la mare. Fa temps que espera que la truquis." },
+  "message7": { "message": "Ja saps com es fa. Només cal que ho provis." },
+  "message8": { "message": "Pregunta-ho al company de la taula del costat. Li agrada que li ho preguntin." },
+  "message9": { "message": "Google encara funciona. I els amics amb opinions, també." },
+  "message10": { "message": "Escriu tu el missatge. Qui el llegeixi notarà que és teu." },
   "optionsTitle": { "message": "Quins dies són sense IA?" },
   "optionsSaved": { "message": "Desat." }
 }

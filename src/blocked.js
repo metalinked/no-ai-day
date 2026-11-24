@@ -1,4 +1,4 @@
-const MESSAGE_COUNT = 5;
+const MESSAGE_COUNT = 10;
 
 document.documentElement.lang = chrome.i18n.getUILanguage();
 
