@@ -23,6 +23,16 @@ async function sync() {
   });
   await chrome.action.setBadgeBackgroundColor({ color: '#000000' });
   await chrome.action.setBadgeText({ text: active ? 'OFF' : '' });
+  if (active) await blockOpenTabs();
+}
+
+// The redirect rule only applies to new navigations, so tabs that were
+// already open when the day started are sent to the poster here.
+async function blockOpenTabs() {
+  const patterns = SITES.map((site) => `*://*.${site}/*`);
+  const tabs = await chrome.tabs.query({ url: patterns });
+  const blocked = chrome.runtime.getURL('/src/blocked.html');
+  await Promise.all(tabs.map((tab) => chrome.tabs.update(tab.id, { url: blocked }).catch(() => {})));
 }
 
 function scheduleAlarm() {
