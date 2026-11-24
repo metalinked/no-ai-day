@@ -10,7 +10,7 @@ The name is Catalan for "No-AI Day". It comes from the "Día sin IVA" (VAT-free 
 
 AI is useful, and most days it saves a lot of time. But some things are worth keeping in practice: reading the docs, remembering a command, working out a bug on your own. One day a week, the extension closes the AI chats in your browser so you get to do that.
 
-It is easy to get around: turn it off or use another browser. It is a reminder, not a lock.
+It is easy to get around: turn it off or use another browser.
 
 ## Status
 
