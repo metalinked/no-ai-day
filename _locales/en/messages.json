@@ -1,6 +1,6 @@
 {
   "extName": { "message": "No-AI Day" },
-  "extDescription": { "message": "One day a week, blocks ChatGPT, Claude, Gemini and friends. That day you do it yourself." },
+  "extDescription": { "message": "One day a week, blocks ChatGPT, Claude, Gemini and friends. See if you've still got it." },
   "todayIs": { "message": "Today is" },
   "word": { "message": "AI" },
   "blockedTitle": { "message": "Today is No-AI Day" },
@@ -15,6 +15,15 @@
   "message8": { "message": "Ask the coworker at the next desk. They like being asked." },
   "message9": { "message": "Google still works. So do friends with opinions." },
   "message10": { "message": "Write the message yourself. Whoever reads it will know it is yours." },
+  "message11": { "message": "Blank page? Start with a bad sentence and fix it later." },
+  "message12": { "message": "Today the mistakes are yours. You learn from those too." },
+  "message13": { "message": "Go for a walk. The answer may turn up on the way." },
   "optionsTitle": { "message": "Which days are AI-free?" },
-  "optionsSaved": { "message": "Saved." }
+  "optionsSaved": { "message": "Saved." },
+  "optionsSites": { "message": "Blocked sites" },
+  "optionsAdd": { "message": "Add" },
+  "optionsRemove": { "message": "Remove" },
+  "optionsInvalid": { "message": "That does not look like a domain." },
+  "optionsDenied": { "message": "Without permission this site cannot be blocked." },
+  "optionsGrant": { "message": "Allow" }
 }

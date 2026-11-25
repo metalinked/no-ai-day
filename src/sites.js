@@ -1,5 +1,6 @@
-// Domains blocked on a no-AI day. Subdomains are matched too.
+// Domains blocked by default on a no-AI day. Subdomains are matched too.
 // Every domain added here also needs a host permission in manifest.json.
+// Users can add and remove sites from the options.
 export const SITES = [
   'chatgpt.com',
   'chat.openai.com',

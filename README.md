@@ -14,16 +14,17 @@ It is easy to get around: turn it off or use another browser.
 
 ## Status
 
-Version 1.0.0. What is left is in [TODO.md](TODO.md).
+Version 1.1.0. What is left is in [TODO.md](TODO.md).
 
 ## What it does
 
 - On the chosen day (Friday by default) it redirects the sites on the list to a block page.
 - You can pick one or more days in the options.
+- You can remove sites from the list in the options and add your own. The browser asks for permission for each site you add.
 - On that day the icon shows "OFF".
-- The texts are in Catalan, Spanish and English, depending on the browser language.
+- The texts follow the browser language: Basque, Catalan, Chinese (simplified), Dutch, English, French, Galician, German, Italian, Japanese, Korean, Polish, Portuguese (Brazil and Portugal), Russian, Spanish or Turkish. Chrome does not support Basque or Galician extensions, so there they show up in Firefox only.
 
-The list of sites is in [src/sites.js](src/sites.js).
+The default list is in [src/sites.js](src/sites.js).
 
 It does not block anything outside the browser: assistants in your editor and terminal keep working.
 
@@ -40,7 +41,7 @@ To try the source instead:
 
 ## Privacy
 
-The extension does not collect or send any data. It only stores the days you pick, using the browser's storage.
+The extension does not collect or send any data. It only stores the days you pick and your changes to the list of sites, using the browser's storage.
 
 ## Contributing
 

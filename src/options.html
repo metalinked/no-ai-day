@@ -8,7 +8,13 @@
 <body class="options">
   <h1 data-i18n="optionsTitle"></h1>
   <form id="days"></form>
-  <p class="saved" id="saved"></p>
+  <h1 data-i18n="optionsSites"></h1>
+  <ul id="sites"></ul>
+  <form class="add" id="add">
+    <input type="text" id="site" placeholder="example.com" autocomplete="off" spellcheck="false" data-i18n-label="optionsSites">
+    <button data-i18n="optionsAdd"></button>
+  </form>
+  <p class="saved" id="saved" role="status"></p>
   <script type="module" src="options.js"></script>
 </body>
 </html>

@@ -1,6 +1,6 @@
 {
   "extName": { "message": "Dia sense IA" },
-  "extDescription": { "message": "Un dia a la setmana, bloqueja ChatGPT, Claude, Gemini i companyia. Aquell dia ho fas tu." },
+  "extDescription": { "message": "Un dia a la setmana, bloqueja ChatGPT, Claude, Gemini i companyia. A veure si encara te'n surts." },
   "todayIs": { "message": "Avui és el" },
   "word": { "message": "IA" },
   "blockedTitle": { "message": "Avui és el Dia sense IA" },
@@ -15,6 +15,15 @@
   "message8": { "message": "Pregunta-ho al company de la taula del costat. Li agrada que li ho preguntin." },
   "message9": { "message": "Google encara funciona. I els amics amb opinions, també." },
   "message10": { "message": "Escriu tu el missatge. Qui el llegeixi notarà que és teu." },
+  "message11": { "message": "Full en blanc? Comença amb una frase dolenta, ja l'arreglaràs." },
+  "message12": { "message": "Avui els errors seran teus. També se n'aprèn." },
+  "message13": { "message": "Surt a fer un volt. La resposta pot arribar pel camí." },
   "optionsTitle": { "message": "Quins dies són sense IA?" },
-  "optionsSaved": { "message": "Desat." }
+  "optionsSaved": { "message": "Desat." },
+  "optionsSites": { "message": "Webs bloquejades" },
+  "optionsAdd": { "message": "Afegeix" },
+  "optionsRemove": { "message": "Treu" },
+  "optionsInvalid": { "message": "Això no sembla un domini." },
+  "optionsDenied": { "message": "Sense permís no es pot bloquejar aquesta web." },
+  "optionsGrant": { "message": "Dona permís" }
 }
